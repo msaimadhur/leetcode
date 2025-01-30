@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/msaimadhur/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/msaimadhur/leetcode/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/msaimadhur/leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1908-recyclable-and-low-fat-products](https://github.com/msaimadhur/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Depth-First Search
 |  |
 | ------- |
