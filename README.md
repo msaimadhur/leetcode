@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/msaimadhur/leetcode/tree/master/0684-redundant-connection) |
+## Array
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/msaimadhur/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/msaimadhur/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/msaimadhur/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
