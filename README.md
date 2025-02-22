@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/msaimadhur/leetcode/tree/master/0684-redundant-connection) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/msaimadhur/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1558-course-schedule-iv](https://github.com/msaimadhur/leetcode/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
@@ -54,8 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/msaimadhur/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/msaimadhur/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/msaimadhur/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/msaimadhur/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/msaimadhur/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
