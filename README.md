@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/msaimadhur/leetcode/tree/master/0035-search-insert-position) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/msaimadhur/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/msaimadhur/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/msaimadhur/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/msaimadhur/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Matrix
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/msaimadhur/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/msaimadhur/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/msaimadhur/leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/msaimadhur/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/msaimadhur/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
